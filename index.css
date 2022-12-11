@@ -116,8 +116,8 @@ button {
 
 .tweet-text {
   width: 207px;
-  font-size: 14px;
-  line-height: 20px;
+  font-size: 23px;
+  line-height: 1.5em;
 }
 
 /* images */
